@@ -40,12 +40,12 @@ le premier cité correspond aux revues directement et immédiatement accessibles
 
 
 
-       * **L'enquête historique à l'ère numérique de Philippe Rygiel**
+L'enquête historique à l'ère numérique de Philippe Rygiel
 [https://www-cairn-info.ezpaarse.univ-paris1.fr/revue-d-histoire-moderne-et-contemporaine-2011-5-page-30.htm](https://www-cairn-info.ezpaarse.univ-paris1.fr/revue-d-histoire-moderne-et-contemporaine-2011-5-page-30.htm)
 
 
 
-GITHUb crée en 2008, permet l'hébergement et l'édition de logiciel qui sont open access racheté par Microsoft...
+GITHUb crée en 2008, permet l'hébergement et l'édition de logiciel qui sont open access racheté par Microsoft.
 
 
 
