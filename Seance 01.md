@@ -28,7 +28,7 @@ Même chose que pour l'Open Access mais dans le domaine de la pédagogie
 
 
 
-## [[https://blogs.univ-poitiers.fr/glossaire-mco/2015/02/21/open-access/](https://blogs.univ-poitiers.fr/glossaire-mco/2015/02/21/open-access/)
+## [https://blogs.univ-poitiers.fr/glossaire-mco/2015/02/21/open-access/](https://blogs.univ-poitiers.fr/glossaire-mco/2015/02/21/open-access/)
 
 
 
