@@ -134,4 +134,4 @@ DOI = Document Object Identifier, identifiant unique fourni pour des ressources 
 
 ## Tropy
 
--Tropy : Organiser ses photos d'archives, documents, pff, manuscrit...etc.
+-Tropy : Organiser ses photos d'archives, documents, pdf, manuscrit...etc.
