@@ -113,7 +113,7 @@ Lecture de l'article de Philipe Rygiel, cf. "DOCUMENT 1  : Ceci est un historien
 
 L'article de Philippe Rygiel examine l'utilisation des technologies numériques dans la recherche historique. Il explore les méthodes, les outils et les avantages de l'histoire numérique, mettant en lumière l'importance de l'accès aux données numériques pour les historiens. L'auteur souligne également les défis et les opportunités liés à l'ère numérique dans le domaine de l'histoire.
 
-Voir le schéma de synthèse: [https://upload.wikimedia.org/wikipedia/commons/2/2d/UNESCO-Open\_science-pillars-fr.png](https://upload.wikimedia.org/wikipedia/commons/2/2d/UNESCO-Open\_science-pillars-fr.png)
+Voir le schéma de synthèse:
 
 ![schéma Phillipe Rygiel](fichiers/séance_01/schemaRygiel.jpg)
 
