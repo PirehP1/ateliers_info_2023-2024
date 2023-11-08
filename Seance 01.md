@@ -109,17 +109,14 @@ Depuis 2021, l'UNESCO a produit des recommandations pour ses États membres quan
 
 Philippe Rygiel, « L’enquête historique à l’ère numérique », *Revue d’histoire moderne et contemporaine*,  58‑4bis-5, 2011, p. 30.
 
-  
+...Lecture de l'article de Philipe Rygiel, cf. "DOCUMENT 1  : Ceci est un historien"
+-l'historien un polygraphe hyper textuelle 
+-L’historien face à l’extension et au partage des données numériques
+-Coopération et division du travail historique
 
-
-
-
-
-
+L'article de Philippe Rygiel examine l'utilisation des technologies numériques dans la recherche historique. Il explore les méthodes, les outils et les avantages de l'histoire numérique, mettant en lumière l'importance de l'accès aux données numériques pour les historiens. L'auteur souligne également les défis et les opportunités liés à l'ère numérique dans le domaine de l'histoire.
 
 Voir le schéma de synthèse: [https://upload.wikimedia.org/wikipedia/commons/2/2d/UNESCO-Open\_science-pillars-fr.png](https://upload.wikimedia.org/wikipedia/commons/2/2d/UNESCO-Open\_science-pillars-fr.png)
-
-
 
 
 
