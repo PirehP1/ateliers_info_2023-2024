@@ -103,7 +103,7 @@ Depuis 2021, l'UNESCO a produit des recommandations pour ses États membres quan
 
 
 
-#  L'enquête historique à l'ère numérique
+#  L'historien dans ce contexte scientifique en mutation 
 
   
 
@@ -123,7 +123,7 @@ Voir le schéma de synthèse: [https://upload.wikimedia.org/wikipedia/commons/2/
 
 
 
-#  Le cas de github : le paradoxe d'une plateforme propriétaire pour mettre en ligne des projets ouverts
+#  Comment outiller son travail de recherche dans ce contexte
 
 DOI = Document Object Identifier, identifiant unique fourni pour des ressources scientifique... permet entre autre d'importer les métadonnée de l'article.
 
