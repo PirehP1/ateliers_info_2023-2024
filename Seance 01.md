@@ -115,7 +115,7 @@ L'article de Philippe Rygiel examine l'utilisation des technologies numériques 
 
 Voir le schéma de synthèse: [https://upload.wikimedia.org/wikipedia/commons/2/2d/UNESCO-Open\_science-pillars-fr.png](https://upload.wikimedia.org/wikipedia/commons/2/2d/UNESCO-Open\_science-pillars-fr.png)
 
-![schéma Phillipe Rygiel](fichiers/séance_01/schéma_Rygiel.jpeg)
+![schéma Phillipe Rygiel](fichiers/séance_01/Schéma_Rygiel.jpeg)
 
 #  Comment outiller son travail de recherche dans ce contexte
 
