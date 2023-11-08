@@ -1,9 +1,3 @@
-# Présentation du langage markdown
-
-Langage de balises créé en 2004 qui permet de définir la mise en forme d'un texte. Il offre l'avantage de pouvoir être exporté vers d'autres formats très facilement.
-
-
-
 #  La science ouverte (open science)
 
 ## Branches de la science ouverte [https://fr.wikipedia.org/wiki/Science\_ouverte](https://fr.wikipedia.org/wiki/Science\_ouverte)
@@ -119,8 +113,7 @@ Voir le schéma de synthèse:
 
 #  Comment outiller son travail de recherche dans ce contexte
 
-DOI = Document Object Identifier, identifiant unique fourni pour des ressources scientifique... permet entre autre d'importer les métadonnée de l'article.
-
+## Github
 -GITHUb crée en 2008, permet l'hébergement et l'édition de logiciel qui sont en open access .
 En 2018, Microsoft a racheté GitHub, mais la plateforme fonctionne indépendamment en tant qu'entité distincte.
 Sur GITHUb plusieurs personnes peuvent travailler ensemble, réviser et fusionner le code, c'est également un espaces de stockage pour les projets, contenant le code, la documentation, etc. Il permet également de créer des sites web gratuits à partir des référentiels, on trouve en outre de nombreux projets disponibles en open source. Enfin GITHUb possède une grande communauté d'utilisateurs, de contributeurs et de projets. 
@@ -128,8 +121,17 @@ Sur GITHUb plusieurs personnes peuvent travailler ensemble, réviser et fusionne
 -Nous avons crée un compte et rejoins le groupe ateliers_info_2023-2024.
 
 
--Explication utilisation de Zotero : Philippe Rygiel, « L’enquête historique à l’ère numérique », *Revue d’histoire moderne et contemporaine*, 58‑4bis-5, 2011, p. 30.
+### Présentation du langage markdown
+
+Langage de balises créé en 2004 qui permet de définir la mise en forme d'un texte. Il offre l'avantage de pouvoir être exporté vers d'autres formats très facilement.
+
+## Zotero
+
+DOI = Document Object Identifier, identifiant unique fourni pour des ressources scientifique... permet entre autre d'importer les métadonnée de l'article.
 
 
+-Explication utilisation de Zotero à travers l'exemple de l'insertion automatique d'une référence : Philippe Rygiel, « L’enquête historique à l’ère numérique », *Revue d’histoire moderne et contemporaine*, 58‑4bis-5, 2011, p. 30.
+
+## Tropy
 
 -Tropy : Organiser ses photos d'archives, documents, pff, manuscrit...etc.
