@@ -70,10 +70,7 @@ L'open science repose sur 3 pilliers :
     
 
 Diffusion autorisée, gratuite.
-
-
-
-Lien vers le diagramme de Venn sur l'open science
+Voici une représentation schématique :
 
 ![diagramme Venn OpenScience](fichiers/séance_01/diagrammeVenn.jpg)
 
