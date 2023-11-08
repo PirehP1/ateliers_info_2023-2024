@@ -75,7 +75,7 @@ Diffusion autorisée, gratuite.
 
 Lien vers le diagramme de Venn sur l'open science
 
-[https://content.iospress.com/media/isu/2017/37-3/isu-37-3-isu846/isu-37-isu846-g001.jpg](https://content.iospress.com/media/isu/2017/37-3/isu-37-3-isu846/isu-37-isu846-g001.jpg)
+![diagramme Venn OpenScience](fichiers/séance_01/diagrammeVenn.jpg)
 
 
 
