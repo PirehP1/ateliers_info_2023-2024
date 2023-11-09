@@ -6,3 +6,4 @@
 
 # De tropy à la base de données heuristique
 
+![Modèle conceptuel des données de la base heuristique](fichiers/séance_02/mcd.png)
