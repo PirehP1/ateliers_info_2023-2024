@@ -6,8 +6,6 @@ Tropy fournit un moyen de créer des métadonnées structurées sur nos sources 
 
 Tropy nous permet également d'importer des images directement depuis un navigateur Web ainsi que les fichiers JSON-LD
 
-Les objets Tropy peuvent être exportés au format JSON-LD, ainsi que vers Omeka S et vers CSV pour les bases de données. En revanche il faut 
-
 ## Les enjeux de la création d'un modèle de saisie pour décrire des documents dans Tropy
 
 ## Tropy et les limites de l'approche documentaire
