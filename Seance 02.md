@@ -14,7 +14,7 @@ Tropy nous permet également d'importer des images directement depuis un navigat
 
 ## Les enjeux de la création d'un modèle de saisie pour décrire des documents dans Tropy
 
-Ouverture du projet_documents_diplomatiques.tropy.zip 
+Ouverture du fichier projet_documents_diplomatiques.tropy.zip et manipulation en classe...
 
 Tropy s'appuie sur des standars de métadonnées
   un standard :  modèle prexistant pour les métadonnées --> permettre la circulation des informations entre plusieurs BDD, logiciels, modeles de données...etc.  C'est une contribution à l'open access ----> ce qui s'appelle l'intéropérabilité* 
