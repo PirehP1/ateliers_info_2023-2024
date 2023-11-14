@@ -1,6 +1,7 @@
 Séance du 08/11/23 Programe  : 
 1) Reprise des éléments de la séance 1 et amélioration
-2)TD Tropy vers Base de Donnée 
+2) TD Tropy vers Base de Donnée 
+
 
 ***nb: ! + [***]+ (chemin) pour insérer une image dans GITHUB***
 
@@ -30,6 +31,7 @@ Critique : Dublin Core jugée trop générique, trop universel. On a ainsi crée
 
 ## Tropy et les limites de l'approche documentaire
 
+Tropy est un logiciel conçu pour aider les chercheurs à organiser et à gérer des collections de photos, en particulier dans le cadre de projets de recherche individuels, ce qui constitue une limite...
 
 nb : CSV (coma sperated values) = format de fichier de structuration de données sous forme de tableau dont les colonnes sont séparés par un sépérateur.
 
