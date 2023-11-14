@@ -1,5 +1,10 @@
 # Organiser ses sources avec Tropy
 
+  Tropy utilise des modèles de métadonnées personnalisables avec différents espaces pour chaque détail du contenu, comme le titre, la date, l'auteur, la boîte, le dossier, la collection, et l'archive. Il est possible d'ajouter ou de changer ces informations pour une seule photo ou plusieurs.
+
+Tropy permet d’exporter ces objets sous divers formats (.CSV, JSON LD, .ZIP, etc.)
+Tropy fournit un moyen de créer des métadonnées structurées sur nos sources. 
+
 ## Les enjeux de la création d'un modèle de saisie pour décrire des documents dans Tropy
 
 ## Tropy et les limites de l'approche documentaire
