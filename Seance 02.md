@@ -16,6 +16,8 @@ Tropy nous permet également d'importer des images directement depuis un navigat
 
 Ouverture du fichier projet_documents_diplomatiques.tropy.zip et manipulation en classe...
 
+Nous avons importé le documents dans Tropy pour but de décrire de manière organisée et complète ----> le modèle de saisie. En effet, comme on l'a vue, Tropy permet une personnalisation des modèles de métadonnées ce qui signifie qu'on peutadapter les champs en fonction des besoins spécifiques de notre collection de documents. En renseigannt ou modifiant des champs tels que le titre du document, la date, l'auteur, le lieu, la boîte de stockage, le dossier, la collection...etc avec la possibilités de  modifier ou de supprimer des champs en fonction de la nature de des documents et des besoins de la description.
+
 Tropy s'appuie sur des standars de métadonnées
   un standard :  modèle prexistant pour les métadonnées --> permettre la circulation des informations entre plusieurs BDD, logiciels, modeles de données...etc.  C'est une contribution à l'open access ----> ce qui s'appelle l'intéropérabilité* 
 
