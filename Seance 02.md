@@ -37,6 +37,8 @@ nb : CSV (coma sperated values) = format de fichier de structuration de données
 
 # De tropy à la base de données heuristique
 
+Tropy, initialement utilisé pour la gestion de photographies, peut évoluer vers une structure de base de données plus complexe pour répondre à des besoins de recherche plus avancés. Cela implique d'y réfléchir en amont...
+
 transfère LibreOffice vers Mysql (format .csv)  
 
 mapping : dans ce contexte, faire correspondre le champs d'un tableau avec le champs d'une Base de donnée
