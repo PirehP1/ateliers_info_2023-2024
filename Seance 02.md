@@ -2,7 +2,7 @@ Séance du 08/11/23 Programe  :
 1) Reprise des éléments de la séance 1 et amélioration
 2)TD Tropy vers Base de Donnée 
 
-***nb: ![***](chemin) pour insérer une image dans GITHUB***
+***nb: ! + [***]+ (chemin) pour insérer une image dans GITHUB***
 
 # Organiser ses sources avec Tropy
 
