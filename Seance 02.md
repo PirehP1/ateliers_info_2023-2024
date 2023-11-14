@@ -31,7 +31,12 @@ Critique : Dublin Core jugée trop générique, trop universel. On a ainsi crée
 ## Tropy et les limites de l'approche documentaire
 
 
+nb : CSV (coma sperated values) = format de fichier de structuration de données sous forme de tableau dont les colonnes sont séparés par un sépérateur.
 
 # De tropy à la base de données heuristique
+
+transfère LibreOffice vers Mysql (format .csv)  
+
+mapping : dans ce contexte, faire correspondre le champs d'un tableau avec le champs d'une Base de donnée
 
 ![Modèle conceptuel des données de la base heuristique](fichiers/séance_02/mcd.png)
