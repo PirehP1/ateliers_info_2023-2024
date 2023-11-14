@@ -14,15 +14,21 @@ Tropy nous permet également d'importer des images directement depuis un navigat
 
 ## Les enjeux de la création d'un modèle de saisie pour décrire des documents dans Tropy
 
-projet_documents_diplomatiques.tropy.zip
+Ouverture du projet_documents_diplomatiques.tropy.zip 
 
 Tropy s'appuie sur des standars de métadonnées
-  un standard : 
-standard = modèle prexistant pour les métadonnées --> permettre la circulation des informations entre plusieurs BDD, logiciels, modeles de données...etc.  C'est une contribution à l'open access ----> ce qui s'appelle l'intéropérabilité* 
+  un standard :  modèle prexistant pour les métadonnées --> permettre la circulation des informations entre plusieurs BDD, logiciels, modeles de données...etc.  C'est une contribution à l'open access ----> ce qui s'appelle l'intéropérabilité* 
 
-Ontologie (informatique) = maniere de decrire de facon structurée l'information sur un domaine particulier. Cet aspect va être aborder + en détail lors du second semestre, l'obj du cours est d'associer cette métadonnée à des ontologies. 
+Ontologie en informatique c'est la maniere de decrire de facon structurée l'information sur un domaine particulier. Cet aspect va être aborder + en détail lors du second semestre, l'obj du cours est d'associer cette métadonnée à des ontologies. 
+
+...Parmis ces associations, on peu citer le plus connu, le Dublin Core (1995 à Dublin (USA)) pour répondre à un besoin du gouvernement afin de faire circuler les informations --> initialement penser par des conservateurs de bibliothèque, et également des historien. C'est donc un sensemble de métadonnées standardisé utilisé pour décrire des ressources numériques telles que des documents, des images, des vidéos, etc. Il fournit un ensemble de termes (éléments) et de qualificatifs (termes secondaires) pour décrire les caractéristiques essentielles d'une ressource, facilitant ainsi la recherche, la gestion et l'échange d'informations sur ces ressources sur le web.
+  Le Dublin Core comprend 15 éléments de base qui peuvent être utilisés pour décrire divers aspects d'une ressource, notamment le titre, le créateur, le sujet, la description, l'éditeur, la date, le format, le type de ressource, la langue, etc. Ces éléments offrent une flexibilité pour décrire une large gamme de ressources numériques..
+  
+Critique : Dublin Core jugée trop générique, trop universel. On a ainsi créer un modele de saisie. 
 
 ## Tropy et les limites de l'approche documentaire
+
+
 
 # De tropy à la base de données heuristique
 
