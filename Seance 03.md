@@ -2,17 +2,16 @@
 
 ## Quelques repères sur le fonctionnement matériel d'un ordinateur
    
-Mémoire de masse = disque dur (frigo) // mémoire vive = puce qui enregistre et qui s'efface à chaque fois qu'on redémarre l'ordinateur (plan de travail) le processeur ( étant le cuisiner).
+   Mémoire de masse = disque dur (frigo) // mémoire vive = puce qui enregistre et qui s'efface à chaque fois qu'on redémarre l'ordinateur (plan de travail) le processeur ( étant le cuisiner).
+   Carte graphique : gere aspect liée à l'affichage de + en = utilisée dans le traitement des données liées à l'inteligence artificielle. 
 
-Carte graphique : gere aspect liée à l'affichage de + en = utilisée dans le traitement des données liées à l'inteligence artificielle. 
+   Pieces pour demarrer un ordinateur : memoire de masse (HDD, SSD) qui reste meme apres l'éteinte du pc
 
-Pieces pour demarrer un ordinateur : memoire de masse (HDD, SSD) qui reste meme apres l'éteinte du pc
+   Memoire vive sous forme de puce (plus elle est grande, plus l'ordinateur peut traiter d'information à la fois)
 
-Memoire vive sous forme de puce (plus elle est grande, plus l'ordinateur peut traiter d'information à la fois)
+   Processeur
 
-Processeur
-
-Ferme à GPU pour traiter beaucoup d'information à la fois par les grands de l'IA
+   Ferme à GPU pour traiter beaucoup d'information à la fois par les grands de l'IA
 
 ## Quelques repères sur le fonctionnement d'yn système d'exploitation
 
